@@ -22,10 +22,6 @@ const changeColor = () =>{
 
 window.addEventListener("scroll", changeColor);
  
-
-
-
-
   return (
     <div className={color ? "Header Header-bg" :"Header"}>
       <Link to="/" >

@@ -11,7 +11,7 @@
     grid-template-columns: repeat(2,1fr);
     grid-gap: 30px;
 }
-.left{
+.left1{
 height: 100%;
 max-width: 100%;
 display: flex;
@@ -26,7 +26,7 @@ padding: 1rem;
 .location p{
     line-height: 30px;
 }
-.right{
+.right1{
     height: 100%;
     max-width: 100%;
     display: flex;

@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <div className="Footer">
         <div className="Footer-container">
-         <div className="left">
+         <div className="left1">
             <div className="location">
                 <FaHome size={20} style={{color:"white",marginRight: "2rem"}}/>
                 <div>
@@ -22,7 +22,7 @@ const Footer = () => {
                 <h4><FaMailBulk size={20} style={{color:"white",marginRight: "2rem"}}/> vishwakarmapriyanshu98@gmail.com</h4>
             </div>
             </div>   
-         <div className="right">
+         <div className="right1">
             <h4>About Me</h4>
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor ut aliquid a officia quisquam assumenda!</p>
             <div className="social">

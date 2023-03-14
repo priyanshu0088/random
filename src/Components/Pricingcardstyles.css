@@ -28,12 +28,18 @@ height: 100%;
     }
 }
 .btn{
-width: 50%;
+
 background-color: orange;
 }
 .head{
     padding: 1rem;
 }
 .para{
-    padding: 0.6rem;
+    padding: 1rem 1rem 1rem 0;
+}
+.card-main{
+    height: fit-content;
+    /* border: 2px solid white; */
+    padding: 2.4rem;
+
 }

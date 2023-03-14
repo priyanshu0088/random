@@ -2,7 +2,10 @@ import React from 'react'
 import Navbar from '../Components/Navbar'
 import Footer from '../Components/Footer'
 import Heroimg2 from '../Components/Heroimg2'
+// import Work from '../Components/Work'
 import Pricingcard from '../Components/Pricingcard'
+
+
 const Project = () => {
   return (
     <div>

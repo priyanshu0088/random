@@ -4,6 +4,8 @@ import pexels3 from "../Assets/pexels3.jpg";
 
 const AboutSpan = () => {
   return (
+
+    <div className="about-back">
     <div className="about-container">
       <h1>hello</h1>
       <div className="single">
@@ -79,6 +81,7 @@ const AboutSpan = () => {
         </div>
     
       </div>
+    </div>
     </div>
   );
 };

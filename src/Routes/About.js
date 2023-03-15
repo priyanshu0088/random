@@ -1,14 +1,14 @@
 import React from 'react'
 import Navbar from '../Components/Navbar'
 import Footer from '../Components/Footer'
-import Heroimg2 from '../Components/Heroimg2'
+import Heroimg3 from '../Components/Heroimg3'
 import AboutSpan from '../Components/AboutSpan'
 // import Pricingcard from '../Components/Pricingcard'
 const About = () => {
   return (
     <div>
       <Navbar/>
-      <Heroimg2 heading="ABOUT." text="i m a friendly guy."/>
+      <Heroimg3 heading="ABOUT." text="Trying to defeat myself."/>
       <AboutSpan/>
       {/* <Pricingcard/> */}
 <Footer/>

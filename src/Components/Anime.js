@@ -1,13 +1,13 @@
 import "./AnimeStyles.css"
-
+// import anipic from "../Assets/anipic.png"
 import React from 'react'
 
 const Anime = () => {
   return (
     <div class="container">
     <div class="cube">
-        <div class="face front"></div>
-        <div class="face back"></div>
+        <div class="face front"> </div>
+        <div class="face back"> </div>
         <div class="face right"></div>
         <div class="face left"></div>
         <div class="face top"></div>

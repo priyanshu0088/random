@@ -16,7 +16,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className="Phone">
-                <h4><FaPhone size={20} style={{color:"white",marginRight: "2rem"}}/> 1-123-1234</h4>
+                <h4><FaPhone size={20} style={{color:"white",marginRight: "2rem"}}/>+917489025984</h4>
             </div>
             <div className="email">
                 <h4><FaMailBulk size={20} style={{color:"white",marginRight: "2rem"}}/> vishwakarmapriyanshu98@gmail.com</h4>
@@ -24,7 +24,7 @@ const Footer = () => {
             </div>   
          <div className="right1">
             <h4>About Me</h4>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor ut aliquid a officia quisquam assumenda!</p>
+            <p>student,learning web-dev. trying to become the best version of me.</p>
             <div className="social">
             <FaFacebook size={30} style={{color:"white",marginRight: "1rem"}}/>
             <FaTwitter size={30} style={{color:"white",marginRight: "1rem"}}/>

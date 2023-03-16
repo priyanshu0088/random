@@ -2,6 +2,7 @@ import "./Pricingcardstyles.css"
 import calci from "../Assets/calci.jpg"
 import textutils from "../Assets/textutils.jpg"
 import game from "../Assets/game.jpg"
+import clock2 from "../Assets/clock2.jpg"
 import React from 'react'
 import { NavLink } from "react-router-dom"
 // import Anime from "../Components/Anime"
@@ -20,7 +21,7 @@ const Pricingcard = () => {
      <div className="para">
      <p> The first solid-state electronic calculator was created in the early 1960s. Pocket-sized devices became available in the 1970s, especially after the Intel 4004. </p>
      </div>
-     <NavLink to="https://www.youtube.com/watch?v=P8YuWEKTeuE"className="btn">view</NavLink>
+     <NavLink to="https://Priyanshu-calci.netlify.app"className="btn">view</NavLink>
 
         </div>
     
@@ -32,7 +33,7 @@ const Pricingcard = () => {
      <div className="para">
      <p>inside this app,you can easily count your words and charecters and also ypu can manipulate text in desired form such as converting in uppercase,lowercase and much more. </p>
      </div>
-     <NavLink to="https://www.youtube.com/watch?v=P8YuWEKTeuE"className="btn">view</NavLink>
+     <NavLink to="https://textwithpriyanshu.netlify.app"className="btn">view</NavLink>
 
         </div>
 
@@ -48,18 +49,18 @@ const Pricingcard = () => {
      <p>The tic-tac-toe game is for two players. One player plays X and the other plays O. The players take turns placing their marks on a grid of three-by-three cells.defeat your friend and enjoy</p>
      </div>
    
-   <NavLink to="https://www.youtube.com/watch?v=P8YuWEKTeuE"className="btn">view</NavLink>
+   <NavLink to="https://priyanshu0088.github.io/calci/"className="btn">view</NavLink>
         </div>
 
         <div className="card">
-    <img className="into-img" src={calci} alt="projet1" />
+    <img className="into-img" src={clock2} alt="projet1" />
      <div className="head"><h1>clock</h1>
      </div>
      <div className="para">
-     <p>Better three hours too soon than a minute too late. – William Shakespeare. Better spend time waiting for the opportunity to take an action than miss the chance. just for your GK</p>
+     <p>Better three hours too soon than a minute too late. – William Shakespeare. Better spend time waiting for the opportunity to take an action than miss the chance. just for your GK and info.</p>
      </div>
    
-   <NavLink to="https://www.youtube.com/watch?v=P8YuWEKTeuE"className="btn">view</NavLink>
+   <NavLink to="https://priyanshu08088.github.io/clock/"className="btn">view</NavLink>
         </div>
 </div>
     

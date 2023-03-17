@@ -9,6 +9,8 @@ const Home = () => {
     <Heroimg />
     <Footer/>
    </div>
+
+   
   )
 }
 
